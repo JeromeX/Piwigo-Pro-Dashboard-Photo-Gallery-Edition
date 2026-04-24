@@ -1,13 +1,14 @@
+
 # 🖼️ Piwigo Pro Dashboard | Photo Gallery Edition
 
 [![Docker](https://img.shields.io/badge/Docker-supported-blue.svg?logo=docker&logoColor=white)](https://www.docker.com/)
-[![PHP](https://img.shields.io/badge/PHP-8.2-777bb4.svg?logo=php&logoColor=white)](https://www.php.net/)
 [![Piwigo](https://img.shields.io/badge/Piwigo-v14.x-ff6600.svg?logo=piwigo&logoColor=white)](https://piwigo.org/)
-[![Hardware](https://img.shields.io/badge/Hardware-HP--Gen8-orange.svg)](https://www.hpe.com)
+[![Architecture](https://img.shields.io/badge/Architecture-x64-blue.svg)](https://en.wikipedia.org/wiki/X86-64)
+[![Deployment](https://img.shields.io/badge/Deployment-Universal-green.svg)](#)
 
 Ein spezialisiertes Web-Interface zur Verwaltung und Überwachung deiner **Piwigo Fotogalerie**. Dieses Dashboard wurde für den **HP ProLiant MicroServer Gen8** optimiert, um Docker-basierte Piwigo-Instanzen effizient zu verwalten, Backups zu erstellen und die Performance der Galerie zu überwachen.
 <img width="1920" height="1080" alt="2026-04-24 22_52_58-Piwigo Dashboard" src="https://github.com/user-attachments/assets/e61d09b2-ba39-4799-95c5-03a89104e20f" />
-
+<img width="1459" height="869" alt="2026-04-24 23_21_11-Greenshot" src="https://github.com/user-attachments/assets/82bb9bd1-ba1b-4a38-94d3-935e096d83a4" />
 ---
 
 ## 🌟 Kern-Features
